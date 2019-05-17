@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/all.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/further_5月4号.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/movie.pkl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock_5月4号.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/stock_dapan.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../Study/Helloword.py" charset="GBK" />
+  </component>
+</project>

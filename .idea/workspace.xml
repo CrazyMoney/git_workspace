@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/stock.py" line="16" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/../Study/homework.py" line="0" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01f6f7df-2444-4ce3-9cd1-9b089eb665b2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Money$while_.coverage" NAME="while 语句 Coverage Results" MODIFIED="1553411374701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$IF.coverage" NAME="IF判断 Coverage Results" MODIFIED="1556438857534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$HELP.coverage" NAME="HELP Coverage Results" MODIFIED="1555575998111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$future.coverage" NAME="future Coverage Results" MODIFIED="1555424904536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$23_.coverage" NAME="23_面向对象版 Coverage Results" MODIFIED="1557060678630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.446" />
+    <SUITE FILE_PATH="coverage/Money$Helloword.coverage" NAME="Helloword Coverage Results" MODIFIED="1555117448226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$stock.coverage" NAME="stock Coverage Results" MODIFIED="1557138174379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/everyday" />
+    <SUITE FILE_PATH="coverage/Money$try__2_.coverage" NAME="try (2) Coverage Results" MODIFIED="1553996446129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$HTTP___.coverage" NAME="HTTP协议---动态与静态处理的服务器 Coverage Results" MODIFIED="1555316150552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Program Files/feiq/Recv Files" />
+    <SUITE FILE_PATH="coverage/Money$08_.coverage" NAME="08_一个函数多个装饰器 Coverage Results" MODIFIED="1556097679487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包" />
+    <SUITE FILE_PATH="coverage/Money$try_more.coverage" NAME="try_more Coverage Results" MODIFIED="1554384324435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$homework__1_.coverage" NAME="homework (1) Coverage Results" MODIFIED="1556248821505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study/msg" />
+    <SUITE FILE_PATH="coverage/Money$pachong.coverage" NAME="pachong Coverage Results" MODIFIED="1553853681795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$mes_send.coverage" NAME="mes_send Coverage Results" MODIFIED="1553998847194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study/msg" />
+    <SUITE FILE_PATH="coverage/Money$ATR_BBANDS.coverage" NAME="ATR_BBANDS Coverage Results" MODIFIED="1556289121210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$try_me.coverage" NAME="try_me Coverage Results" MODIFIED="1555141403700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$tool.coverage" NAME="tool Coverage Results" MODIFIED="1554033779632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study/HMcard" />
+    <SUITE FILE_PATH="coverage/Money$news.coverage" NAME="news Coverage Results" MODIFIED="1553993838528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$yonghu_tool.coverage" NAME="yonghu_tool Coverage Results" MODIFIED="1553506120242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$pca.coverage" NAME="pca Coverage Results" MODIFIED="1555763073010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$3_16.coverage" NAME="3.16作业 Coverage Results" MODIFIED="1556159074371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$futher.coverage" NAME="futher Coverage Results" MODIFIED="1554455123625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$11_.coverage" NAME="11_类装饰器传参 Coverage Results" MODIFIED="1556108343994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包" />
+    <SUITE FILE_PATH="coverage/Money$try.coverage" NAME="try Coverage Results" MODIFIED="1553990791437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$game.coverage" NAME="game Coverage Results" MODIFIED="1554190826406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../exam" />
+    <SUITE FILE_PATH="coverage/Money$homework.coverage" NAME="homework Coverage Results" MODIFIED="1556181827420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study/msg" />
+    <SUITE FILE_PATH="coverage/Money$hello.coverage" NAME="hello Coverage Results" MODIFIED="1555241692204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$homework__2_.coverage" NAME="homework (2) Coverage Results" MODIFIED="1556798624872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$.coverage" NAME="自动化 Coverage Results" MODIFIED="1557325503218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$exam.coverage" NAME="exam Coverage Results" MODIFIED="1557825905879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$mini_web_23.coverage" NAME="mini_web_23 Coverage Results" MODIFIED="1557060672169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.591" />
+    <SUITE FILE_PATH="coverage/Money$help_me.coverage" NAME="help_me Coverage Results" MODIFIED="1557138170997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$modle_1.coverage" NAME="modle_1 Coverage Results" MODIFIED="1554001151714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$CCTV.coverage" NAME="CCTV Coverage Results" MODIFIED="1555421164729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$fff.coverage" NAME="fff Coverage Results" MODIFIED="1554606089717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$ATR_BBANDS_FURTHER.coverage" NAME="ATR_BBANDS_FURTHER Coverage Results" MODIFIED="1557901099663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$try__1_.coverage" NAME="try (1) Coverage Results" MODIFIED="1553520638473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Study" />
+    <SUITE FILE_PATH="coverage/Money$cpi.coverage" NAME="cpi Coverage Results" MODIFIED="1555569911928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$my_log__1_.coverage" NAME="my_log (1) Coverage Results" MODIFIED="1557198307889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$ATR_BBANDS_STOCK.coverage" NAME="ATR_BBANDS_STOCK Coverage Results" MODIFIED="1557825907892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Money$my_log.coverage" NAME="my_log Coverage Results" MODIFIED="1557198172398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../chorem下载/python26_第十五天mini_web 2/代码/python26_http服务器" />
+    <SUITE FILE_PATH="coverage/Money$02_tcp2.coverage" NAME="02_tcp服务器端升级2 Coverage Results" MODIFIED="1555068708503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="study: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="stock@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="stock@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Money" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/自动化.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+              <folding>
+                <element signature="e#41#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setsockopt(</find>
+      <find>time</find>
+      <find>pressing</find>
+      <find>sql</find>
+      <find>to</find>
+      <find>dataframe</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/../Study/pca.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包/07_万能装饰器使用.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包/09_装饰器传参.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包/10_类魔法 方法.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包/08_一个函数多个装饰器.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包/11_类装饰器.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十三天装饰器 2/代码/python26_装饰器与闭包/11_类装饰器传参.py" />
+        <option value="$PROJECT_DIR$/../Study/3.16作业.py" />
+        <option value="$PROJECT_DIR$/../Study/msg/homework.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/05_with上下文管理 器.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/05_with上下文管理 器3.py" />
+        <option value="$PROJECT_DIR$/../Study/kkkk.html" />
+        <option value="$PROJECT_DIR$/ATR_BBANDS.py" />
+        <option value="$PROJECT_DIR$/ATR_BBANDS_further.py" />
+        <option value="$PROJECT_DIR$/all.txt" />
+        <option value="$PROJECT_DIR$/../Study/redis练习.py" />
+        <option value="$PROJECT_DIR$/../Study/IF判断.py" />
+        <option value="$PROJECT_DIR$/../Study/msg/vue.html" />
+        <option value="$PROJECT_DIR$/../Study/CaiQuan.py" />
+        <option value="$PROJECT_DIR$/../Study/homework.py" />
+        <option value="$PROJECT_DIR$/来袭.py" />
+        <option value="$PROJECT_DIR$/further_5月4号.csv" />
+        <option value="$PROJECT_DIR$/stock_5月4号.csv" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.693/11_命令行传参服务器.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.028/mini_web_21.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.073/23_面向对象版.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.098/mini_web_23.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.314/mini_web_21.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DIa0.591/mini_web_23.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十五天mini_web 2/python26_第十五天mini_web 2/代码/python26_http服务器/mini_web_24.py" />
+        <option value="$PROJECT_DIR$/../chorem下载/python26_第十五天mini_web 2/python26_第十五天mini_web 2/代码/python26_http服务器/24_面向对象版.py" />
+        <option value="$PROJECT_DIR$/stock_dapan.csv" />
+        <option value="$PROJECT_DIR$/everyday/ATR_BBANDS_STOCK.py" />
+        <option value="$PROJECT_DIR$/everyday/stock.py" />
+        <option value="$PROJECT_DIR$/further_dapan.csv" />
+        <option value="$PROJECT_DIR$/../Study/in.html" />
+        <option value="$PROJECT_DIR$/../Study/hhh.html" />
+        <option value="$PROJECT_DIR$/自动化..py" />
+        <option value="$PROJECT_DIR$/自动化.py" />
+        <option value="$PROJECT_DIR$/../Study/help_me.py" />
+        <option value="$PROJECT_DIR$/ATR_BBANDS_FURTHER.py" />
+        <option value="$PROJECT_DIR$/ATR_BBANDS_STOCK.py" />
+        <option value="$PROJECT_DIR$/stock.py" />
+        <option value="$PROJECT_DIR$/../Study/mysql_exam.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console_1.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console_2.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console_3.sql" />
+        <option value="$PROJECT_DIR$/../Study/exam.py" />
+        <option value="$PROJECT_DIR$/CCTV.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="212" />
+    <option name="y" value="31" />
+    <option name="width" value="1430" />
+    <option name="height" value="1070" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Money" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Money" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Money" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Study" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/../Study/msg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Money" />
+      <recent name="E:\Money\venv" />
+      <recent name="E:\Money\node_modules" />
+      <recent name="E:\Money\everyday" />
+      <recent name="E:\Study\HMcard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Money" />
+      <recent name="E:\Study" />
+      <recent name="E:\Study\pictures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ATR_BBANDS_FURTHER">
+    <configuration name="hhh.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Money/hhh.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="数据类型" type="PythonConfigurationType" factoryName="Python">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Study/数据类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ATR_BBANDS_FURTHER" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ATR_BBANDS_FURTHER.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ATR_BBANDS_STOCK" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ATR_BBANDS_STOCK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="自动化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="类装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Study/msg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Study/msg/类装饰器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="布林线" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/布林线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="数据处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="秒表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Study" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Study/秒表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="exam" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Study/exam.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="my_log (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python">
+      <module name="Money" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Money\stock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.hhh.html" />
+      <item itemvalue="Python.数据类型" />
+      <item itemvalue="Python.try" />
+      <item itemvalue="Python.ATR_BBANDS_STOCK" />
+      <item itemvalue="Python.my_log (1)" />
+      <item itemvalue="Python.ATR_BBANDS_FURTHER" />
+      <item itemvalue="Python.exam" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ATR_BBANDS_FURTHER" />
+        <item itemvalue="Python.ATR_BBANDS_STOCK" />
+        <item itemvalue="Python.exam" />
+        <item itemvalue="JavaScript Debug.hhh.html" />
+        <item itemvalue="Python.my_log (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\臣子\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01f6f7df-2444-4ce3-9cd1-9b089eb665b2" name="Default" comment="" />
+      <created>1552648970812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552648970812</updated>
+      <workItem from="1552836583565" duration="1673000" />
+      <workItem from="1552873060302" duration="15964000" />
+      <workItem from="1552904037267" duration="1662000" />
+      <workItem from="1552909748319" duration="1358000" />
+      <workItem from="1552952770926" duration="15148000" />
+      <workItem from="1552978785708" duration="23920000" />
+      <workItem from="1553039973451" duration="4175000" />
+      <workItem from="1553046690387" duration="30287000" />
+      <workItem from="1553146393266" duration="389000" />
+      <workItem from="1553149278562" duration="2494000" />
+      <workItem from="1553212167423" duration="40274000" />
+      <workItem from="1553299176245" duration="37184000" />
+      <workItem from="1553390018585" duration="22605000" />
+      <workItem from="1553471665495" duration="28258000" />
+      <workItem from="1553558293941" duration="21092000" />
+      <workItem from="1553597687980" duration="5603000" />
+      <workItem from="1553686835639" duration="4806000" />
+      <workItem from="1553733742718" duration="22097000" />
+      <workItem from="1553775703074" duration="2934000" />
+      <workItem from="1553782845893" duration="3029000" />
+      <workItem from="1553817489171" duration="13123000" />
+      <workItem from="1553845817667" duration="11471000" />
+      <workItem from="1553872054386" duration="816000" />
+      <workItem from="1553907013003" duration="214000" />
+      <workItem from="1553910776010" duration="20760000" />
+      <workItem from="1553942129233" duration="4831000" />
+      <workItem from="1553990044737" duration="3593000" />
+      <workItem from="1553995198568" duration="9704000" />
+      <workItem from="1554018248437" duration="10554000" />
+      <workItem from="1554042677789" duration="356000" />
+      <workItem from="1554078949068" duration="2960000" />
+      <workItem from="1554082656497" duration="140000" />
+      <workItem from="1554183397724" duration="20374000" />
+      <workItem from="1554210082171" duration="4173000" />
+      <workItem from="1554217328286" duration="4418000" />
+      <workItem from="1554253781774" duration="4098000" />
+      <workItem from="1554347133759" duration="6700000" />
+      <workItem from="1554359052806" duration="7311000" />
+      <workItem from="1554370878845" duration="14301000" />
+      <workItem from="1554451820099" duration="5876000" />
+      <workItem from="1554508569360" duration="18282000" />
+      <workItem from="1554600800764" duration="23502000" />
+      <workItem from="1554681123724" duration="10714000" />
+      <workItem from="1554900599189" duration="319000" />
+      <workItem from="1554906574183" duration="6603000" />
+      <workItem from="1554963690523" duration="3836000" />
+      <workItem from="1554977778592" duration="8900000" />
+      <workItem from="1554993272461" duration="3931000" />
+      <workItem from="1555035196595" duration="15097000" />
+      <workItem from="1555062007395" duration="13240000" />
+      <workItem from="1555081144362" duration="2391000" />
+      <workItem from="1555113361171" duration="3973000" />
+      <workItem from="1555117368547" duration="31706000" />
+      <workItem from="1555166168199" duration="1623000" />
+      <workItem from="1555199640781" duration="32588000" />
+      <workItem from="1555252875625" duration="3379000" />
+      <workItem from="1555288287723" duration="13945000" />
+      <workItem from="1555314466173" duration="455000" />
+      <workItem from="1555315118280" duration="4555000" />
+      <workItem from="1555372527625" duration="24391000" />
+      <workItem from="1555420435089" duration="3032000" />
+      <workItem from="1555430788053" duration="878000" />
+      <workItem from="1555460725018" duration="822000" />
+      <workItem from="1555464456530" duration="707000" />
+      <workItem from="1555466885139" duration="1238000" />
+      <workItem from="1555478876077" duration="1067000" />
+      <workItem from="1555480976114" duration="11338000" />
+      <workItem from="1555515447028" duration="272000" />
+      <workItem from="1555569705447" duration="15342000" />
+      <workItem from="1555661636532" duration="757000" />
+      <workItem from="1555718305799" duration="4027000" />
+      <workItem from="1555749407735" duration="11347000" />
+      <workItem from="1555804803941" duration="1238000" />
+      <workItem from="1555848993489" duration="1922000" />
+      <workItem from="1555914415587" duration="646000" />
+      <workItem from="1556001107370" duration="10047000" />
+      <workItem from="1556068640793" duration="19291000" />
+      <workItem from="1556116674015" duration="5783000" />
+      <workItem from="1556155376872" duration="24229000" />
+      <workItem from="1556237040265" duration="9991000" />
+      <workItem from="1556263595726" duration="10410000" />
+      <workItem from="1556288885686" duration="1126000" />
+      <workItem from="1556326497050" duration="17495000" />
+      <workItem from="1556415359491" duration="4215000" />
+      <workItem from="1556433480324" duration="529000" />
+      <workItem from="1556438648747" duration="2641000" />
+      <workItem from="1556447691569" duration="9181000" />
+      <workItem from="1556461911622" duration="637000" />
+      <workItem from="1556497992634" duration="655000" />
+      <workItem from="1556500823926" duration="328000" />
+      <workItem from="1556502195758" duration="682000" />
+      <workItem from="1556502904455" duration="90000" />
+      <workItem from="1556503014203" duration="1578000" />
+      <workItem from="1556509920173" duration="3942000" />
+      <workItem from="1556527279960" duration="7879000" />
+      <workItem from="1556541356921" duration="4675000" />
+      <workItem from="1556549321945" duration="1197000" />
+      <workItem from="1556584408368" duration="13765000" />
+      <workItem from="1556703429461" duration="5221000" />
+      <workItem from="1556777037115" duration="13730000" />
+      <workItem from="1556939207206" duration="12364000" />
+      <workItem from="1557014687900" duration="10963000" />
+      <workItem from="1557101481852" duration="1593000" />
+      <workItem from="1557120259297" duration="3539000" />
+      <workItem from="1557138069683" duration="2881000" />
+      <workItem from="1557146580930" duration="1843000" />
+      <workItem from="1557188908362" duration="5165000" />
+      <workItem from="1557223971572" duration="4712000" />
+      <workItem from="1557276662546" duration="540000" />
+      <workItem from="1557295222436" duration="5063000" />
+      <workItem from="1557319816836" duration="4056000" />
+      <workItem from="1557325332471" duration="1359000" />
+      <workItem from="1557360414585" duration="1799000" />
+      <workItem from="1557650079486" duration="694000" />
+      <workItem from="1557660075771" duration="675000" />
+      <workItem from="1557706034395" duration="18000" />
+      <workItem from="1557798203674" duration="301000" />
+      <workItem from="1557798750475" duration="7368000" />
+      <workItem from="1557901069076" duration="938000" />
+      <workItem from="1557919202505" duration="451000" />
+      <workItem from="1557988474062" duration="878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="945305000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.1444563" />
+      <window_info auto_hide="true" id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.6" side_tool="true" weight="0.110341154" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.034669556" />
+      <window_info anchor="bottom" content_ui="combo" id="Run" order="2" sideWeight="0.63539445" weight="0.17395945" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.63965887" weight="0.49187434" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.36460555" side_tool="true" weight="0.29577464" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4946695" weight="0.4539545" />
+      <window_info anchor="bottom" id="Database Console" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49573562" weight="0.40303358" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.20042644" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.12793177" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.08422175" />
+      <window_info anchor="right" id="Python Console" order="7" weight="0.77771854" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4" visible="true" weight="0.116204694" />
+      <window_info auto_hide="true" id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.6" side_tool="true" weight="0.110341154" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29144096" />
+      <window_info anchor="bottom" content_ui="combo" id="Run" order="2" sideWeight="0.63539445" weight="0.4084507" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.63965887" weight="0.49187434" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.36460555" side_tool="true" weight="0.29577464" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4946695" weight="0.45411205" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="11" visible="true" weight="0.26435536" />
+      <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49573562" weight="0.40303358" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.20042644" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="5" side_tool="true" weight="0.12793177" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.10501066" />
+      <window_info anchor="right" id="Python Console" order="7" weight="0.77771854" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Study/苹果价格.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Study/秒表.py</url>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../exam/game.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Study/HMcard/tool.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="ret" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>df</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>acts</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ret</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>df</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>PF</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.693/11_命令行传参服务器.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.484/21_面向对象版.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.028/mini_web_21.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.169/23_面向对象版.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.985/mini_web_23.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.686/mini_web_23.py" />
+    <entry file="file://$PROJECT_DIR$/../Study/二分法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.662/23_面向对象版.py" />
+    <entry file="file://$PROJECT_DIR$/../Study/HELP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="54" lean-forward="true" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/Helloword.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.712/mini_web_23.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.098/mini_web_23.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.073/23_面向对象版.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.314/mini_web_21.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.434/mini_web_23.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.591/mini_web_23.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.446/23_面向对象版.py" />
+    <entry file="file://$PROJECT_DIR$/../chorem下载/python26_第十五天mini_web 2/python26_第十五天mini_web 2/代码/python26_http服务器/mini_web_24.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="79" column="4" selection-start-line="79" selection-start-column="4" selection-end-line="81" selection-end-column="23" />
+          <folding>
+            <element signature="e#91#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chorem下载/python26_第十五天mini_web 2/python26_第十五天mini_web 2/代码/python26_http服务器/24_面向对象版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" selection-start-line="14" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Init_StockALL_Sp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chorem下载/python26_第十五天mini_web 2/代码/python26_http服务器/my_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/hhh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.213/自动化EA脚本.py" />
+    <entry file="file://$PROJECT_DIR$/../Study/help_me.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/pywinauto/application.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="812">
+          <caret line="1062" column="27" selection-start-line="1062" selection-start-column="27" selection-end-line="1062" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_dapan.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://943939f7-b55c-4cad-8c6c-6bf0df6309ec/schema/study/table/class">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://943939f7-b55c-4cad-8c6c-6bf0df6309ec/schema/study/table/info">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1364">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="74" selection-start-column="74" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Study/exam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATR_BBANDS_STOCK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/further_dapan.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://943939f7-b55c-4cad-8c6c-6bf0df6309ec/schema/study/table/student">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://943939f7-b55c-4cad-8c6c-6bf0df6309ec/schema/study/table/course">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/943939f7-b55c-4cad-8c6c-6bf0df6309ec/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348" />
+      </provider>
+    </entry>
+    <entry file="das://943939f7-b55c-4cad-8c6c-6bf0df6309ec/schema/study/table/studentcourse">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://943939f7-b55c-4cad-8c6c-6bf0df6309ec/schema/study/table/teacher">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCTV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cctv_news">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ATR_BBANDS_FURTHER.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/自动化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1953125" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1953125" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
